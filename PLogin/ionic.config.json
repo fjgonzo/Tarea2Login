@@ -1,0 +1,7 @@
+{
+  "name": "PLogin",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
